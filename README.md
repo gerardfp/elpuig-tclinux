@@ -11,16 +11,6 @@ Minimal LiveCD based on Core Linux 5.2. Modules included:
 
   * es.kmap
 
-
-
-### Download ###
-
-  * link: http://elpuig-tclinux.googlecode.com/git/ElPuig-TCLinux.iso (23 MB)
-
-  * mirror: https://drive.google.com/file/d/0Bxy87ucpLMaBRlNZOHVnaXNhR0k
-
-  * Tiny Core Linux: http://www.tinycorelinux.net/downloads.html
-
 ### Remastering ###
 
 **tclinux.iso**
